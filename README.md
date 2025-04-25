@@ -1,10 +1,9 @@
 # Exploratory-Data-Analysis
-# Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ## 📋 Task Objective
 Perform Exploratory Data Analysis (EDA) on the Titanic Dataset to understand the data using **statistics** and **visualizations**.
 
----
+
 
 ## 🖠 Tools Used
 - **Python**
@@ -12,7 +11,7 @@ Perform Exploratory Data Analysis (EDA) on the Titanic Dataset to understand the
 - **Matplotlib** and **Seaborn** for data visualization
 - **NumPy** for numerical operations
 
----
+
 
 ## 📈 Steps Performed
 
@@ -42,13 +41,13 @@ Perform Exploratory Data Analysis (EDA) on the Titanic Dataset to understand the
    - 'Fare' feature showed right-skewness (outliers present).
    - Negative correlation observed between `Pclass` and `Fare`.
 
----
+
 
 ## 📂 Files Included
 - `Titanic-Dataset.csv` — The dataset used.
 
 
----
+
 
 ## 📌 Important Notes
 - Only **numerical columns** were selected for correlation matrix to avoid conversion errors.
